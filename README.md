@@ -1,7 +1,7 @@
 # Computer Vision Nanodegree Projects
  
 ## Overview 
-This repository is a collection of projects I completed for the [Udacity Computer Vision Nanodegree](https://www.udacity.com/course/computer-vision-nanodegree--nd891). 
+This repository is a collection of projects I completed for the [Udacity Computer Vision Nanodegree](https://www.udacity.com/course/computer-vision-nanodegree--nd891), which I implemented with various computer vision tools from PyTorch to OpenCV. 
 
 ## Content 
 1. [Project 1](P1/P1-Facial%20Keypoint%20Detection): Facial Keypoint Detection
